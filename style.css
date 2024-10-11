@@ -1,0 +1,67 @@
+/* Основные стили */
+body {
+  font-family: "Verdana", sans-serif;
+  color: #333;
+  background-color: #f4f4f4;
+  line-height: 1.6;
+  letter-spacing: 0.5px;
+}
+
+/* Стили для заголовка сайта */
+.header {
+  background-color: #4caf50;
+  color: white;
+  text-align: center;
+}
+
+h1 {
+  font-size: 36px;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
+p {
+  font-size: 16px;
+  font-weight: normal;
+}
+
+/* Стили для основного контента */
+.content h2 {
+  font-size: 28px;
+  color: #333;
+  font-weight: bold;
+  text-transform: capitalize;
+}
+
+.content p {
+  font-size: 18px;
+  font-weight: normal;
+  line-height: 1.8;
+}
+
+blockquote {
+  font-style: italic;
+  background-color: #f9f9f9;
+  margin: 10px 0;
+  padding: 10px;
+}
+
+ul {
+  font-size: 16px;
+  list-style-type: circle;
+}
+
+strong {
+  font-weight: bold;
+}
+
+a {
+  color: #007bff;
+  text-decoration: underline;
+}
+
+.footer {
+  text-align: center;
+  background-color: #333;
+  color: white;
+}
